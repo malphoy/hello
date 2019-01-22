@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -23,10 +22,10 @@
 <body>
                 
 <p>Resize the browser window. When the width of this document is 600 pixels or less, the background-color is "lightblue", otherwise it is "lightgreen".</p>
-            djisdfds'
+          <p>  djisdfds'
             djndckdd
             dm dsj vsdvd
-            dsvdvjsdv
+            dsvdvjsdv</p>
             
     
 </body>
